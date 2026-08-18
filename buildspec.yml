@@ -20,4 +20,3 @@ commands:
 post_build:
 commands:
 - echo "Build complete. Image tag $IMAGE_TAG pushed to ECR."
-PART 3 — Create ECR Repository
